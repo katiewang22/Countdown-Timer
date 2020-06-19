@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0689639C249D6CCC00788454 /* Lobster-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0689639B249D6C9700788454 /* Lobster-Regular.ttf */; };
 		06D3D3B9249C2132001089B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3D3B8249C2132001089B9 /* AppDelegate.swift */; };
 		06D3D3BB249C2132001089B9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3D3BA249C2132001089B9 /* SceneDelegate.swift */; };
 		06D3D3BD249C2132001089B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D3D3BC249C2132001089B9 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0689639B249D6C9700788454 /* Lobster-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lobster-Regular.ttf"; sourceTree = "<group>"; };
 		06D3D3B5249C2132001089B9 /* Countdown Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Countdown Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D3D3B8249C2132001089B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06D3D3BA249C2132001089B9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0689639A249D6C8A00788454 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				0689639B249D6C9700788454 /* Lobster-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		06D3D3AC249C2132001089B9 = {
 			isa = PBXGroup;
 			children = (
@@ -109,6 +119,7 @@
 				06D3D3C6249C2134001089B9 /* LaunchScreen.storyboard */,
 				06D3D3C9249C2134001089B9 /* Info.plist */,
 				06D3D3C1249C2132001089B9 /* Countdown_Timer.xcdatamodeld */,
+				0689639A249D6C8A00788454 /* Fonts */,
 			);
 			path = "Countdown Timer";
 			sourceTree = "<group>";
@@ -236,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06D3D3C8249C2134001089B9 /* LaunchScreen.storyboard in Resources */,
+				0689639C249D6CCC00788454 /* Lobster-Regular.ttf in Resources */,
 				06D3D3C5249C2134001089B9 /* Assets.xcassets in Resources */,
 				06D3D3C0249C2132001089B9 /* Main.storyboard in Resources */,
 			);

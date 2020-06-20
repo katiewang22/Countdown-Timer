@@ -39,7 +39,7 @@ class ViewController: UIViewController {
     
     func endEvent(currentdate: Date, eventdate: Date) {
         if currentdate >= eventdate {
-            timerLabel.text = "Happy New Year!"
+            timerLabel.text = "Happy Birthday! 🥳"
             // Stop Timer
             timer.invalidate()
         }

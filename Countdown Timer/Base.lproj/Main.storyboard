@@ -35,7 +35,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oKB-rJ-pCj">
-                                        <rect key="frame" x="43" y="500" width="262" height="74"/>
+                                        <rect key="frame" x="8" y="504" width="332" height="74"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="35"/>
                                         <color key="textColor" red="0.98526471849999997" green="0.48208171129999999" blue="0.52213531729999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
